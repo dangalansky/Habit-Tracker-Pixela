@@ -19,7 +19,7 @@ refer to documentation at: https://docs.pixe.la/
 10) 'Uncomment' code under 'update a specific pixel', change <yyyyMMdd> to date of pixel you wish to update and run code
 11) To delete a pixel, graph or user, uncomment that line of code and run it.
 
-## For all other inquiries or abilities within the pixela API, please refer to the above documentation. 
+## For all other inquiries within the Pixela API, please refer to the above documentation. 
 
 
 * the code is my own, but this was adapted from Angela Yu's 100 Days of Code with Python by: London App Brewery
